@@ -9,3 +9,11 @@
   =>  Author Website   : https://htmlcodex.com
 
   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+to download sonarqube community edition get the link as below from sonarqube website.
+```
+wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.1.0.73491.zip
+```
+unzip it.
+```
+unzip sonarqube-10.1.0.73491.zip
+```
